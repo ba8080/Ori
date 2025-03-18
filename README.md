@@ -1,3 +1,3 @@
 # Ori
 OurTask
-My data sturcte is -  Dictionary (dict) with a transaction list
+My data sturcte is -  Dictionary (dict) with a transaction list testing 
